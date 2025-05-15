@@ -5,8 +5,7 @@ Student: Joel Boafo
 
 Studentnummer: 1771818
 
-Link naar deze repository: https://github.com/HU-ICT-AI-2023/ap-2-design-implementation-joel890
-
+Link naar deze repository: https://github.com/joel890/domain-design
 Deze repository bevat de uitwerking van bovengenoemde student van Summatieve Opdracht 2, voor het vak Adaptive Programming aan de HU, cursusjaar 2023-2024.
 
 Om te voorkomen dat te grote bestanden worden meegestuurd met een commit, staan de mappen .idea en cmake-build-debug in de .gitignore. Gelieve deze dus ook niet mee te proberen te pushen; dat is niet nodig.
